@@ -1,5 +1,5 @@
 # Crawler for hot topics on Sina Weibo
-A Christmas Project
+A Christmas Present Project for Miss C.
 
-By: Xiaochi (George) Li  
+Designed by: Xiaochi (George) Li  
 Dec.2018
