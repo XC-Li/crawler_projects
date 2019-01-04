@@ -1,8 +1,11 @@
 # Crawler and Analysis for hot topics on Weibo
-*A Project inspired by Miss C.*
+Another useless project
 
 Designed By: Xiaochi (George) Li  
 Dec.2018
+
+![](./image/trend_2018_12.JPG)
+[Download Data](./data)
 
 ## Crawler Part
 This program([*weibo_hot_crawler.py*](./weibo_hot_crawler.py)) fetches the hot words and heat index from Hot Weibo(热搜榜） (https://s.weibo.com/top/summary?cate=realtimehot),
@@ -23,3 +26,8 @@ CSV contains: 10 columns(index, year, month, day, hour, minute, key_word, number
 |number（热搜指数）| the heat index|
 |read(阅读）| the read count|
 |discussion（讨论）| the discussion count|
+
+## Analysis Part
+See [*Analyse.ipynb*](./Analyse.ipynb)
+
+## 2019-01-04: There will be no further updates on this project.
