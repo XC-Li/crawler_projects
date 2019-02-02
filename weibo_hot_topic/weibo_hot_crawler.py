@@ -1,6 +1,5 @@
 """
 Web Crawler for Weibo (Chinese version of twitter) Hot Words(微博热搜）
-A Project inspired by Miss C
 Designed By: Xiaochi (George) Li
 
 This program fetches the hot words and heat index from Hot Weibo(热搜榜） (https://s.weibo.com/top/summary?cate=realtimehot),
